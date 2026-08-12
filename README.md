@@ -1,4 +1,4 @@
-Perguntas de conclusão
+Perguntas de conclusão:
 1.  Explique por que o método GET é utilizado para listar produtos e quais são os benefícios de utilizar esse método em uma API RESTful.
 
         R: O GET é usado para listar os produtos porque ele apenas busca e mostra as informações que estão salvas, sem mudar nada no servidor, e os benefícios são padronizar a consulta de dados e facilitar a comunicação entre sistemas diferentes de forma segura.
